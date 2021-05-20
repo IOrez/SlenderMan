@@ -1,0 +1,17 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs
+/SlenderMan/SlenderMan/.vs/SlenderMan/v15
+/SlenderMan/SlenderMan/Debug
+/SlenderMan/SlenderMan/SlenderMan/x64/Debug
+/SlenderMan/SlenderMan/SlenderMan/Resources
+/SlenderMan/SlenderMan/SlenderMan/SlenderMan/Resources
+/SlenderMan/SlenderMan/x64/Debug
+*.db
+*.opendb
+*.suo
+*.idb
+*.pdb
+/SlenderMan/SlenderMan/SlenderMan/Debug
